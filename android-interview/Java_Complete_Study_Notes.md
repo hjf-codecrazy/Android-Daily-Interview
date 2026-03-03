@@ -1431,7 +1431,7 @@ public class ExecutionOrder {
 
 ### 14. Java 中 String.length() 的运作原理
 
-#### 详细答案
+#### 详细答案 
 
 `String.length()` 返回的是字符串中的**字符数量**，而不是字节数。对于 ASCII 字符，1 个字符 = 1 字节；对于中文等，1 个字符 = 2-4 字节。
 
